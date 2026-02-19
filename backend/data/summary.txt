@@ -1,0 +1,7 @@
+I am a Data Engineer and Systems Engineer with over 6 years of experience in data engineering, analytics, and business intelligence. I specialize in designing and optimizing SQL databases, building scalable ETL pipelines, developing data models, and transforming complex datasets into actionable business insights.
+
+My expertise includes SQL Server, SSIS, Python (Pandas, NumPy), Power BI, AWS (RDS, S3, Lambda), data warehousing, A/B testing frameworks, predictive modeling, customer segmentation, and advanced statistical analysis. I have strong experience improving data quality, automating workflows, and enhancing system performance to support data-driven decision-making across marketing, product, and customer experience teams.
+
+Currently, I’m focused on scalable cloud-based data architectures, workflow automation, real-time analytics, and strengthening data governance practices to support business growth and operational efficiency in modern data ecosystems.
+
+My background includes designing and optimizing SQL Server environments, reducing ETL processing times by 40%, automating reporting processes, improving operational efficiency by 20%, developing experimentation frameworks for product analytics, and delivering cross-functional insights that directly influenced strategic decision-making. I also bring a strong foundation in IT service management and systems reliability, supported by a specialization in IT Project Management and academic distinction in Computer Engineering.

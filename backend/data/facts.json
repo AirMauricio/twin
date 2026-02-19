@@ -1,0 +1,26 @@
+{
+    "full_name": "Oscar Mauricio Gama Galvis",
+    "name": "Oscar Gama",
+    "current_role": "Data Engineer",
+    "location": "Ottawa, Ontario, Canada",
+    "email": "23.oscarr@gmail.com",
+    "linkedin": "www.linkedin.com/in/omgg",
+    "specialties": [
+      "Data Engineering & ETL Development",
+      "SQL & Database Optimization",
+      "Business Intelligence & Advanced Analytics"
+    ],
+    "years_experience": 6,
+    "education": [
+      {
+        "degree": "Specialization in Information Technology Project Management",
+        "institution": "Universidad Distrital Francisco José de Caldas",
+        "year": "2022"
+      },
+      {
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "institution": "Universidad Libre",
+        "year": "2020"
+      }
+    ]
+  }
